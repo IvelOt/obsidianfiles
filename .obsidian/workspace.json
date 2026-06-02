@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d9dd90e1b57ffad",
+        "id": "3073130c0d1fe12d",
         "type": "tabs",
         "children": [
           {
-            "id": "42decef5bc53e538",
+            "id": "21991ca651bf7ba2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,13 +173,15 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "42decef5bc53e538",
+  "active": "3724f64e09a7aa73",
   "lastOpenFiles": [
+    "Livros/formação/The_Linux_Command_Line.pdf",
+    "Livros/formação/A Tour of C++, 3rd Edition (Bjarne Stroustrup) (z-library.sk, 1lib.sk, z-lib.sk).epub",
     "Untitled-2026-02-25-1057.excalidraw",
     "Kanban sem título.md",
     "Excalidraw/wgpu.excalidraw.md",
@@ -192,7 +194,6 @@
     "Livros/Didatico/Livro de Compilladores.pdf",
     "Livros/Didatico/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).pdf",
     "Livros/Didatico/ML system design.pdf",
-    "Livros/Didatico/O Programador Pragmático - Autor (Andrew Hunt e David Thomas).pdf",
     "DND Raças.md",
     "TCC/links.md",
     "TCC/Metodologia.md",
