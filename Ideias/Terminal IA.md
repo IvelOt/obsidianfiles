@@ -1,0 +1,8 @@
+[[Terminal IA]] [[Ideias]] [[Linux]] [[IA]]
+Acabei de precisar executar o comando `herdr integration install claude, herdr integration install opencode and herdr integration install antigravity-cli`,e tranformar ele em `herdr integration install claude && herdr integration install opencode && herdr integration install antigravity-cli`. Então pensei algo como nossa! consigo tranformar isso em algo interessante aqui. aos poucos eu cada vez menos interajo com botões e interfaces, incluse fiquei preguiçoso ao ponto de nem querer isso. basicamente meu dia a dia é no terminal com uma ferramenta cli de IA integrada. então basicamento que fiz no meu terminal foi pegar uma frase e traduzir num comando simples, uma coisa que não demanda muito raciocinio e tokens de I.A, porque não então fazer um terminal parecido com herdr mas já com um motor de I.A no backend. pode ser um fork do ghostty por exemplo ou mais simples que isso. acho que talvez alguém em algum lugar do mundo já o tenha feito inclusive mas eu desconheço e gostaria do meu proprio. o maior desafio pra mim seria talvez pensar em focar em uma SLM. uma coisa pequena focada exclusivamente nos comando do proprio sistema operacional e distro ao qual esta instalado. não gostaria de depender de um modelo em nuvem pra executar um simples comando. muito menos torrar tokens. acredito que da pra fazer algo assim.
+
+então deixa eu escrever os passos para isso:
+
+- Ver como fazer uma especie de tunning pra deixar eles presos numa caixa e responder apenas o que tem a ver com os comando de sistema.
+
+- obviamente deixar tudo isso parametrizavel.

@@ -1,0 +1,2 @@
+[[Jarvis]] [[Ideias]] [[software]] [[AI]]
+Pronto a nova ideia que tive foi algo meio complexo porém interessante. provavelmente alguém também o fez. um tonystark. bem eu basicamente já tenho o cerebro feito. usando o firstmate + telegram. seria apenas adicionar uma api com uma i.a pra transcrever o que eu falo e me responder. ela pode ser usando o proprio telegram inclusive. algo que use a mesma logica escute o script do telegram. ao chgar mensagnes lê e quando eu falar ele escreve lá.

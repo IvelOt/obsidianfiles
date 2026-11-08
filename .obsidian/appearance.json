@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,GohuFont uni14 Nerd Font Mono",
   "theme": "obsidian",
-  "cssTheme": "Dark Castle",
+  "cssTheme": "",
   "baseFontSize": 18,
   "baseFontSizeAction": true,
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "showRibbon": false
+  "showRibbon": true
 }

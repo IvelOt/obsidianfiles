@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3073130c0d1fe12d",
+        "id": "f74660b28076e3f7",
         "type": "tabs",
         "children": [
           {
-            "id": "21991ca651bf7ba2",
+            "id": "383e5a400e904dda",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -65,7 +67,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
@@ -74,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217
+    "width": 343.5
   },
   "right": {
     "id": "948505b96b5a9572",
@@ -133,16 +138,6 @@
             }
           },
           {
-            "id": "5f68aa14c61e0c4e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "cc2ee2d5c4c25059",
             "type": "leaf",
             "state": {
@@ -154,7 +149,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           }
         ],
@@ -162,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,50 +171,56 @@
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Criar um novo quadro": false
+      "obsidian-kanban:Criar um novo quadro": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "3724f64e09a7aa73",
   "lastOpenFiles": [
+    "Ideias/Jogo de hacker.md",
+    "Ideias/editor de video AI.md",
+    "Ideias/Jarvis.md",
+    "Ideias/Terminal IA.md",
+    "Ideias/Servidor ESP32.md",
+    "Ideias/Linux AI OS.md",
+    "Ideias/Game de finanças.md",
+    "Game.md",
+    "TCC/bibliografia/harness-of-harness.pdf",
+    "TCC/bibliografia/HOH.md",
+    "TCC/TCC.md",
+    "Ideias/Ideias.md",
+    "ideias.md",
+    "Ideias",
+    "Untitled-2026-02-25-1057.excalidraw",
+    "TCC/bibliografia/LLMS_CANT_JUMP.pdf",
+    "TCC/bibliografia",
+    "TCC",
+    "DND Images prompts.md",
+    "DND Raças.md",
+    "Kanban sem título.md",
+    "Pasted image 20260621231430.png",
+    "Pasted image 20260621231405.png",
+    "Pasted image 20260621225446.png",
+    "TCC/Status_Projeto.md",
+    "TCC/Metodologia.md",
+    "TCC/links.md",
+    "TCC/Artigo_TCC_Completo.md",
+    "TCC/Banco_Bibliografico.md",
+    "TCC/Pesquisa_Modelos_e_Tendencias.md",
+    "Matematica/quaro.md",
+    "Matematica/Pré calculo.md",
+    "Matematica",
     "Livros/formação/The_Linux_Command_Line.pdf",
     "Livros/formação/A Tour of C++, 3rd Edition (Bjarne Stroustrup) (z-library.sk, 1lib.sk, z-lib.sk).epub",
-    "Untitled-2026-02-25-1057.excalidraw",
-    "Kanban sem título.md",
     "Excalidraw/wgpu.excalidraw.md",
     "Livros/Didatico/Practical GPU Graphics with wgpu and Rust (Jack Xu) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "Livros/Didatico/The.Go.Programming.Language.pdf",
-    "Livros/Didatico/Zero To Production In Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (z-library.sk, 1lib.sk, z-lib.sk).epub",
-    "DND Images prompts.md",
-    "Livros/Didatico/Rust Concorrência e alta performance com segurança (Marcelo Castellani, Willian Molinari) (Z-Library).epub",
-    "Livros/Literatura/Dom Casmurro (Machado de Assis) (Z-Library).epub",
-    "Livros/Didatico/Livro de Compilladores.pdf",
-    "Livros/Didatico/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).pdf",
-    "Livros/Didatico/ML system design.pdf",
-    "DND Raças.md",
-    "TCC/links.md",
-    "TCC/Metodologia.md",
     "TCC/MCP - Server.md",
     "Golang/Resumo.md",
-    "DEVOPS/Kubernetes/Overview.md",
-    "TCC/TCC - Resumo.md",
     "TCC/anexos/MCP_arquitetura.png",
     "Sem título.canvas",
-    "Excalidraw/Drawing 2025-07-30 23.20.24.excalidraw.md",
-    "Sistemas/Linux/Criar executável linha de comando.md",
-    "NodeMCU/Conceitos/WiFi.md",
-    "NodeMCU/Componentes/Led.md",
-    "DEVOPS/SRE/SRE.md",
-    "Livros/Literatura/David Copperfield.md",
-    "IFPE/Projeto_e_Pratica/bancos de dados.md",
-    "IFPE/Projeto_e_Pratica/Frontend.md",
-    "IFPE/Projeto_e_Pratica/Resumo do Projeto.md",
-    "IFPE/Projeto_e_Pratica/Jornada de usuario.md",
     "IFPE/Projeto_e_Pratica/Joranada usuario.canvas",
-    "IFPE/Projeto_e_Pratica/Drawing 2025-04-11 23.45.02.excalidraw.md",
-    "IFPE/Projeto_e_Pratica/Backend.md",
-    "DEVOPS/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).md",
-    "DEVOPS/Resumo - Devops na prática.md",
-    "Excalidraw/Drawing 2025-04-14 18.42.32.excalidraw.md",
     "Segurança/Hacking WebDay/Sem título.canvas",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027174025.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027095510.png",
@@ -226,9 +228,6 @@
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027170752.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027164253.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027160706.png",
-    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027160454.png",
-    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027155412.png",
-    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027155209.png",
     "IFPE/Cronograma/Metodologia.canvas",
     "Untitled.canvas"
   ]

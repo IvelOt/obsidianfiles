@@ -1,0 +1,1 @@
+Imagine uma rede social de hacker, onde voce loga, ganha uma página web e outras coisas e o dever dos outros usuarios é lhe atacar e roubar seus dados. sei lá
